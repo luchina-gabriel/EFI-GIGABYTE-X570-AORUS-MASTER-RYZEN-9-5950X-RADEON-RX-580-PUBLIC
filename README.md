@@ -1,5 +1,7 @@
 # Hackintosh | Ryzentosh - Gigabyte X570 Aorus Master, Ryzen 9 5950X and AMD Radeon RX 580 8Gb
 
+![About This Mac](https://github.com/luchina-gabriel/EFI-GIGABYTE-X570-AORUS-MASTER-RYZEN-9-5950X-RADEON-RX-580-PUBLIC/assets/23700365/bf280e02-89b1-46b1-9f7a-b8ae0c7199a2)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.1.1)
